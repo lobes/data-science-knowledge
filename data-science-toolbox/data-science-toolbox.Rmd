@@ -1,0 +1,45 @@
+---
+title: 'Data Science Toolbox'
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE, 
+                      comment = NA)
+```
+
+## 01 - What is Data Science?
+
+- No one knows
+- Using data to answer questions
+- Combination of programming, statistics and storytelling to extract nuggets of gold under mountains of data
+
+### What is Big Data
+
+- Data too big to fit in Excel
+
+Characterised by:
+
+- __Volume__
+- __Velocity__
+- __Variety__
+
+### What is a Data Scientist
+
+Intersection of three skillsets:
+
+- __Hacking Skills__
+- __Maths & Stats Knowledge__
+- __Domain Knowledge__
+
+![http://drewconway.com/zia/2013/3/26/the-data-science-venn-diagram](./figures/data-science-venn-diagram.png)
+
+## 02 - What is Data?
+
+A set of values of qualitative or quantitative variables.
+
+- __Set__: In statistics, the population you are trying to discover something about
+- __Variable__: Measurements or characteristics of an item
+- __Qualitative__: Measurements or information about qualities
+- __Quantitative__: Measurements or information about quantities or numerical items
+

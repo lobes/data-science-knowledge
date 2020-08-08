@@ -20,9 +20,9 @@ knitr::opts_chunk$set(echo = FALSE,
 
 Characterised by:
 
-- __Volume__
-- __Velocity__
-- __Variety__
+- __Volume__: More and more data is becoming increasingly available
+- __Velocity__: Data is being generated at an astonishing rate
+- __Variety__: The data we can analyse comes in many forms
 
 ### What is a Data Scientist
 
@@ -32,7 +32,7 @@ Intersection of three skillsets:
 - __Maths & Stats Knowledge__
 - __Domain Knowledge__
 
-![http://drewconway.com/zia/2013/3/26/the-data-science-venn-diagram](./figures/data-science-venn-diagram.png)
+![https://drewconway.com/zia/2013/3/26/the-data-science-venn-diagram](./figures/data-science-venn-diagram.png)
 
 ## 02 - What is Data?
 
@@ -43,3 +43,13 @@ A set of values of qualitative or quantitative variables.
 - __Qualitative__: Measurements or information about qualities
 - __Quantitative__: Measurements or information about quantities or numerical items
 
+### Some common types of messy data
+
+- Sequencing data
+- Population census data
+- Electronic medical records (EMR), other large databases
+- Geographic information system (GIS) data (mapping)
+- Image analysis and image extrapolation
+- Language and translations
+- Website traffic
+- Personal/Ad data (eg: Facebook, Netflix predictions, etc)
